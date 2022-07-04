@@ -1,0 +1,5 @@
+﻿UC1
+Snake and Ladder game played with single player at start position 0
+
+so in this use case we have to define player position 0
+n just we have to print player position
