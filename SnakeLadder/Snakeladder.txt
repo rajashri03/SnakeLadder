@@ -3,3 +3,11 @@ Snake and Ladder game played with single player at start position 0
 
 so in this use case we have to define player position 0
 n just we have to print player position
+
+UC2
+The Player rolls the die to get a number between 1 to 6. - Use ((RANDOM)) to get the number between 1 to 6
+
+In this use case roll die to get number.
+and use Random class to generate random number
+Random rand = new Random();     //Random is class.We have to create object of random class
+int diceRoll = rand.Next(1, 7);		//so using Next Method we can generate random number so 1,7 means it will generate number betweem 1 to 6
